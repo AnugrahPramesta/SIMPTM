@@ -1,6 +1,6 @@
 # SIMPTM
 
-SIMPTM (Sistem Informasi Monitoring Penyakit Tidak Menular) merupakan sebuah aplikasi berbasis website yang bisa digunakan oleh masyarakat Belitung Timur untuk melihat jumlah Data Penyakit Tidak Menular dan Jadawal Posbindu di Kabupaten Belitung Timur.
+SIMPTM (Sistem Informasi Monitoring Penyakit Tidak Menular) merupakan sebuah aplikasi berbasis website yang bisa digunakan oleh masyarakat Belitung Timur untuk melihat jumlah Data Penyakit Tidak Menular dan Jadwal Posbindu di Kabupaten Belitung Timur.
 
 Berikut merupakan dokumentasi Fitur yang ada dalam aplikasi:
 
