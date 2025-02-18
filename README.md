@@ -3,13 +3,16 @@
 SIMPTM (Sistem Informasi Monitoring Penyakit Tidak Menular) merupakan sebuah aplikasi berbasis website yang bisa digunakan oleh masyarakat Belitung Timur untuk melihat jumlah Data Penyakit Tidak Menular dan Jadawal Posbindu di Kabupaten Belitung Timur.
 
 Berikut merupakan dokumentasi Fitur yang ada dalam aplikasi:
+
+#Fitur User
 |Nama Fitur| Deskripsi |
 |----------|-----------|
-|Fitur User| |
 |Landing Page | Halaman utama dari website. Menampilkan seluruh data yang telah diinputkan oleh admin |
-|Login | Login hanya bisa dilakukan oleh admin (NIP : 1234, Pass : admin) |
 
-|Fitur Admin| |
+#Fitur Admin
+|Nama Fitur| Deskripsi |
+|----------|-----------|
+|Login | Login hanya bisa dilakukan oleh admin (NIP : 1234, Pass : admin) |
 |Dashboard | Menampilkan seluruh data penyakit dalam bentuk diagram pie |
 |Data Penyakit Hipertensi| Fitur untuk melakukan penginputan data penyakit Hipertensi, serta menampilkan data dalam bentuk diagram batang |
 |Data Penyakit Kanker Serviks| Fitur untuk melakukan penginputan data penyakit Kanker Serviks, serta menampilkan data dalam bentuk diagram batang |
