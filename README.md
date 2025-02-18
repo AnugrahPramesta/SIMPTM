@@ -4,12 +4,12 @@ SIMPTM (Sistem Informasi Monitoring Penyakit Tidak Menular) merupakan sebuah apl
 
 Berikut merupakan dokumentasi Fitur yang ada dalam aplikasi:
 
-#Fitur User
+-Fitur User
 |Nama Fitur| Deskripsi |
 |----------|-----------|
 |Landing Page | Halaman utama dari website. Menampilkan seluruh data yang telah diinputkan oleh admin |
 
-#Fitur Admin
+-Fitur Admin
 |Nama Fitur| Deskripsi |
 |----------|-----------|
 |Login | Login hanya bisa dilakukan oleh admin (NIP : 1234, Pass : admin) |
